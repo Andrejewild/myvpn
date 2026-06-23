@@ -1,0 +1,816 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "url": "vless://22e456e0-6538-4fb7-9c1a-70fb50514251@51.250.45.152:9443?security=reality&encryption=none&pbk=Le9PPFU9i84RoMbwcw1aKVG5qDMWsmO2bczmjSN1Fkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2ed7a557b4ebab2f",
+      "alias": "🇧🇷 01 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://dba2a5dc-3b84-463a-aba4-8e4b53a69f8b@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox",
+      "alias": "🇺🇸 02 США @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://3314aee8-9420-440c-bc3c-a0daa545517b@ru.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb",
+      "alias": "🇧🇷 03 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@51.250.8.143:515?encryption=none&type=xhttp&path=%2Fapi%2Fads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=9759b96f487c",
+      "alias": "🇷🇺 04 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f",
+      "alias": "🇷🇺 05 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c4c9f50d-b76b-4a17-b091-5a87fe615635@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=%2F",
+      "alias": "🇩🇪 06 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://8ccf89d2-1168-45f6-82d5-5927738e8ebe@217.16.18.174:5443?security=reality&encryption=none&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=505c94b8c65afb0a",
+      "alias": "🇷🇺 07 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c5167719-2b91-478e-a3dc-ffc52910faf8@cdn11.cloud-vk.com:9443?security=reality&encryption=none&pbk=I6seu-Rq-f8XamKpN_Zh2EiKkKx7pbAv__DK2aX9FGk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=0a1496dd9f588caf",
+      "alias": "🇧🇷 08 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://916dbdb5-80cd-44e8-baa9-81eee695a437@154.222.9.102:8443?type=tcp&security=tls&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision-udp443",
+      "alias": "🇷🇺 09 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://5ecf4912-8d37-4d03-ac59-f2a466d1bdff@nl-node-001.amnesia.pw:443?flow=xtls-rprx-vision&sni=ekmp-a-51.rzd.ru&security=reality&pbk=I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE&fp=chrome",
+      "alias": "🇮🇹 10 Италия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://eb8bce52-b6b5-4dff-91f5-71afafe9beec@node3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=fb916778d4&sni=max.ru&type=tcp",
+      "alias": "🇷🇺 11 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://633a1689-b6ee-4e7f-b701-5604cd409b92@188.68.218.160:443?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv2%2F&mode=packet-up&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22packet-up%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=edge&sni=eda.yandex.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=52d25a9b6eef53fc",
+      "alias": "🇫🇷 12 Франция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f",
+      "alias": "🇷🇺 13 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://59a34b45-a01e-4ff5-a689-d9f50422e8a7@185.154.20.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=a-fvBe0tLnLOEn2O4FEBKXeJMAsOxKFP0LIJdsQzi3k&sid=f4f4a12042ea3ba8&spx=%2F",
+      "alias": "🇷🇺 14 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://2dac53cd-d5ce-4d00-9a3f-f595765bc466@45.196.169.53:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f",
+      "alias": "🇮🇳 15 Индия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://33de2596-d95d-412b-a8c2-410be7060ca3@87.242.110.168:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org",
+      "alias": "🇨🇭 16 Швейцария @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://aea66cfd-494b-4fba-8c62-658a5df71e59@72.56.32.79:9892?type=tcp&headerType=none&security=reality&encryption=none&sni=io.ozone.ru&fp=chrome&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&flow=xtls-rprx-vision",
+      "alias": "🇧🇷 17 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://23e6dcfb-fb3c-48db-b6a2-6dc5bf22e219@217.16.18.174:5443?security=reality&encryption=none&pbk=WS0bRkS3WsV7XakA2XeaJHX3ZNEJkiSgoe-ngA8iDQw&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=3d2f6fdb8f1651a6",
+      "alias": "🇨🇭 18 Швейцария @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://3314aee8-9420-440c-bc3c-a0daa545517b@pl.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb",
+      "alias": "🇧🇷 19 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f37c7922-3655-4493-a6f0-e6e62ca49da6@84.201.177.246:3002?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv2%2Fconfig%2Fsync&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%22128-256%22%2C%22hMaxRequestTimes%22%3A%22400-700%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=safari&sni=cloud.mail.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=a13c4184c8e60ccb",
+      "alias": "🇫🇷 20 Франция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws",
+      "alias": "🇬🇧 21 Великобритания @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://17451fec-af94-4715-8c2f-7f6839130d0a@nl-amst1-node.datamove.online:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&spx=/",
+      "alias": "🇩🇪 22 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2",
+      "alias": "🇬🇧 23 Великобритания @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2",
+      "alias": "🇨🇦 24 Канада @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.144.140:80?type=ws&security=none&fp=chrome&path=/Telegram🇨🇳+@WangCai2&host=s5.868001.xyz",
+      "alias": "🇨🇦 25 Канада @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://4b330f8b-51c8-4f13-be35-4b95b201dcbd@31.129.42.98:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=5d8e1a9c4f72b3",
+      "alias": "🇸🇪 26 Швеция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://99149e1a-eb23-4a04-9bb2-9143cd9ad254@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api.yandex.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=%2F",
+      "alias": "🇳🇱 27 Нидерланды @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://633a1689-b6ee-4e7f-b701-5604cd409b92@188.68.218.110:443?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv2%2F&mode=packet-up&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22packet-up%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=edge&sni=eda.yandex.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=232979c8aeb6fb7c",
+      "alias": "🇫🇷 28 Франция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://8ea0665e-dee3-418c-8822-1f70f350f2db@2.26.93.43:443?type=tcp&security=reality&sni=yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad",
+      "alias": "🇷🇺 29 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@usp.musicperec.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&security=reality&sid=2c5d7e1f&sni=www.amd.com&type=tcp",
+      "alias": "🇮🇩 30 Индонезия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://2ed79ecd-257f-4fe7-adbb-d86f74fb5d26@217.16.18.174:5443?security=reality&encryption=none&pbk=Zkjmoy79UuCGCS5_4fMfhv0lXDvgBjUTT7jCdQoWdQQ&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2ad4123458ff3fe5",
+      "alias": "🇷🇺 31 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://1ef8383f-25e5-4a49-bd61-5194aedbfb0c@79.174.90.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F",
+      "alias": "🇬🇧 32 Великобритания @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=f69d7af2d5fc5e0c",
+      "alias": "🇩🇪 33 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://d6dba391-9247-4a51-9e9b-eae045378b90@178.250.243.56:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2",
+      "alias": "🇷🇺 34 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a5c9e94e-7d76-4ceb-a23d-333b8d08c71d@31.129.42.98:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=5d8e1a9c4f72b3",
+      "alias": "🇸🇪 35 Швеция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@51.250.79.203:443?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=Uwz6QjH6QTonKba4RVv35LNmhJLA6c2kxtI2nXRQWTg&sid=2c60d62e1d95c07a",
+      "alias": "🇩🇪 36 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=fta.fontanvpn.com",
+      "alias": "🇫🇮 37 Финляндия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://ef6faa53-d230-4e35-a071-e38224d9126f@31.130.130.168:443?security=reality&encryption=none&pbk=PNtfWIdwZkgsP4XJGdgrEibPecaA_-uV1EzVewshgXE&headerType=none&fp=chrome&spx=%2FqLhKPUoXfr67gnp&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=872f0656fc1196",
+      "alias": "🇧🇷 38 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://5528d31c-501b-45c7-8335-2d08712dec32@185.229.9.16:49001?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=m.vk.com&pbk=Zd4UabMvO_1QQny7BzwBZa7T3eeY1GXC7MKZprZ-pGY&sid=27e53bbcab7593d7&spx=%2F",
+      "alias": "🇩🇪 39 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.27:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7",
+      "alias": "🇩🇪 40 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://806269b6-3cf8-482f-ac08-cc8e434b4f39@158.160.128.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY",
+      "alias": "🇩🇪 41 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://31b24f9d-e02f-44f3-8704-b3101c8fff38@217.16.18.174:5443?mode=gun&security=reality&encryption=none&authority=&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=max.ru&sid=9c6f7a1b",
+      "alias": "🇷🇺 42 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@nl.prx1.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03",
+      "alias": "🇳🇱 43 Нидерланды @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48",
+      "alias": "🇬🇧 44 Великобритания @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://1704631c-fc47-4b59-b390-ddb32413ce09@45.198.80.70:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c",
+      "alias": "🇷🇺 45 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f101fe5a-0b4f-4aaf-9c17-3b0767740259@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox",
+      "alias": "🇺🇸 46 США @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://281da500-0018-4991-b5d7-feb4ab627f3a@144.31.1.83:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun9-35.userapi.com&fp=firefox&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&flow=xtls-rprx-vision",
+      "alias": "🇵🇱 47 Польша @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://66b78cb9-c0a7-01f4-8b3c-d10d03fa0cb4@146.185.240.88:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323",
+      "alias": "🇷🇺 48 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://2ed79ecd-257f-4fe7-adbb-d86f74fb5d26@217.16.18.174:5443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=98c637e074b03225",
+      "alias": "🇨🇭 49 Швейцария @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://1d77b05c-b58b-4c5e-8056-5b879ee5537f@194.55.239.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8",
+      "alias": "🇦🇹 50 Австрия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://4e80e4dc-6531-4337-b74f-39bce96864b5@91.92.43.81:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com",
+      "alias": "🇩🇪 51 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@185.170.10.248:48350?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&type=tcp&headerType=none",
+      "alias": "🇷🇺 52 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://0b342486-d7c8-46fd-893a-5901225089d4@45.195.111.19:8443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp",
+      "alias": "🇮🇹 53 Италия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c95c3bf4-3abc-4d20-b752-3fcff74c2570@80.90.185.66:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000",
+      "alias": "🇳🇱 54 Нидерланды @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@31.76.104.150:8080?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=auto&security=reality&encryption=none&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&fp=chrome&type=xhttp&sni=ozon.ru&sid=6d6f13013d3e1d0c",
+      "alias": "🇷🇺 55 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://5225956c-59ce-00aa-bc63-b89e5967ff00@bg-ru-01.mintrocket.org:443?security=reality&encryption=none&pbk=zxjWzyEWy0J-l9ApidV5buZT0LJFXs8fhkCXLziBWCE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=bg-ru-01.mintrocket.org&sid=b57cb1311c9550c9",
+      "alias": "🇪🇪 56 Эстония @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.115:443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&sid=a20d3ed244c76426",
+      "alias": "🇷🇺 57 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://b2fa120e-03d6-4aec-857a-a45013cceb01@hentai-cdn.apruxdomain.xyz:80?type=ws",
+      "alias": "🇺🇸 58 США @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f465fe94-87f4-448b-abc3-4855d2351a3a@151.243.198.45:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139&flow=xtls-rprx-vision",
+      "alias": "🇮🇹 59 Италия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?flow=xtls-rprx-vision&fp=firefox&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&security=reality&sid=5fc027d907f46ee9&sni=www.microsoft.com&type=tcp",
+      "alias": "🇫🇮 60 Финляндия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws",
+      "alias": "🇬🇧 61 Великобритания @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a8160c2f-561b-4849-83d2-9900d1442c74@144.31.178.160:8443?type=http&security=reality&sni=sun1-90.userapi.com&fp=firefox&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=fda2928a0a987b11",
+      "alias": "🇮🇹 62 Италия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://26a84f89-6c43-464c-8531-3762a1705442@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox",
+      "alias": "🇺🇸 63 США @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://4b330f8b-51c8-4f13-be35-4b95b201dcbd@185.91.54.200:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=c31f9a0e7d4b52",
+      "alias": "🇸🇪 64 Швеция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&sni=eh.vk.com&sid=478dc6",
+      "alias": "🇩🇪 65 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://33de2596-d95d-412b-a8c2-410be7060ca3@46.149.67.166:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp",
+      "alias": "🇷🇺 66 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.38.71.245:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139&flow=xtls-rprx-vision",
+      "alias": "🇳🇱 67 Нидерланды @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://46b81618-5d7f-4b65-b95f-7f782b8242be@176.124.199.218:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&sni=speedload.hexvpn.online&path=&host=",
+      "alias": "🇩🇪 68 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://be1321e5-f313-4389-ac8e-bd89dc47c5a6@185.141.227.218:2072?encryption=none&type=xhttp&security=reality&host=max.ru&path=%2F&mode=packet-up&extra=%7B",
+      "alias": "🇩🇪 69 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://1bb9e882-3000-4c40-b4a0-c2dd0d9794e0@hentai-cdn.apruxdomain.xyz:80?type=ws",
+      "alias": "🇺🇸 70 США @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://66e314b8-8bc2-4958-974d-c183329faf05@45.194.71.82:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc",
+      "alias": "🇬🇧 71 Великобритания @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://3314aee8-9420-440c-bc3c-a0daa545517b@ru.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=2f49bccf11150ef2",
+      "alias": "🇧🇷 72 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://8aa30c53-ffac-45d1-9924-8911873dc4e0@84.201.178.175:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F",
+      "alias": "🇩🇪 73 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.198.162:443?security=reality&encryption=none&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rezerv11.yunus.guru&sid=34256b39b4ebb864",
+      "alias": "🇸🇪 74 Швеция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;sni=dev.max.ru&amp;fp=safari&amp;pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&amp;sid=c338fe2b01cf271a",
+      "alias": "🇷🇺 75 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://e97a7931-500b-4777-82a2-4237f15bcedd@45.194.10.82:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0",
+      "alias": "🇨🇱 76 Чили @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://bd91187b-aeeb-403d-8cff-5bdc5ebc04c1@cdn15.cloud-vk.com:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&security=reality&encryption=none&pbk=Z3oTdMxbUnjnA0WuO_stlnYFGfEq_dROTslPMg5ndXo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d83a04e9bc167f25",
+      "alias": "🇷🇺 77 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://e5f01dff-24be-4ae8-b701-a9b3e783cca0@2.27.43.162:62800?fp=firefox&mode=gun&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc",
+      "alias": "🇧🇷 78 Бразилия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://b6ed5c90-cf3a-4ade-aade-4c3c315dfdc9@62.152.58.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=0k11W7Kb0ncWPcknoD0xJikoESlU5ApDYySG7X7OZCU&sid=27e53bbcab7593d7&spx=%2F",
+      "alias": "🇩🇪 79 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@145.223.69.171:443?security=reality&type=tcp&fp=firefox&sni=www.vk.com&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&spx=%2F&sid=97c6c4b8&name=TG%3AYoutubeUnBlockRu",
+      "alias": "🇷🇺 80 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?flow=&fp=randomized&host=daluan.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=daluan.eu.org&type=ws",
+      "alias": "🇮🇩 81 Индонезия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://ba2630d8-d6c4-49ff-b5d5-2c24330dd245@212.109.194.140:2096?type=grpc&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+      "alias": "🇬🇷 82 Греция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+      "alias": "🇷🇺 83 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://946c8ae3-94bc-42ee-840e-d8a31b906310@b3aa11az-k15gg1.ru.y-tun.com:8443?pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&encryption=none&fp=chrome&security=reality&headerType=none&sid=a1b2c3d4e5f6789a&type=tcp",
+      "alias": "🇮🇹 84 Италия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&sni=www.kinopoisk.ru&path=%2FtDjkeuxyQPUDqF8wT2&mode=auto",
+      "alias": "🇵🇱 85 Польша @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://33de2596-d95d-412b-a8c2-410be7060ca3@77.223.120.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+      "alias": "🇷🇺 86 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@156.244.43.22:443?type=tcp&headerType=none&security=tls&encryption=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision-udp443&insecure=0",
+      "alias": "🇦🇹 87 Австрия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://8c10a0da-9144-4ad8-9df2-b3700113f8b6@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60",
+      "alias": "🇷🇺 88 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://335a5214-4fa4-4d5e-9077-f2ccc0830f46@51.250.4.111:10003?type=tcp&security=reality&sni=login.vk.ru&fp=firefox&flow=xtls-rprx-vision&pbk=zEw1LJUh2-801TFaI0WRxryd4lmjKazvB3s9-TnaWCM&sid=39b50f32",
+      "alias": "🇷🇺 89 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://e8485150-d10e-4271-b2fb-dd37c9bd44f4@109.69.218.165:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp",
+      "alias": "🇷🇺 90 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@178.212.13.157:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03",
+      "alias": "🇦🇹 91 Австрия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f3ed5433-e8f7-4fb5-ba85-57cc36fc85eb@84.201.159.182:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI",
+      "alias": "🇩🇪 92 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.83.2.140:80?type=ws&security=none&fp=firefox&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz",
+      "alias": "🇨🇦 93 Канада @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c43c1a42-27a8-47e3-a3c3-3abb72475e53@165.231.193.21:443?type=http&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744",
+      "alias": "🇮🇹 94 Италия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f37c7922-3655-4493-a6f0-e6e62ca49da6@84.201.177.246:3000?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv2%2Fconfig%2Fsync&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%2220-40%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=safari&sni=eda.yandex.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=4ad64b956eed301f",
+      "alias": "🇫🇷 95 Франция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f1c79552-2450-4028-b70f-76762db6327f@178.250.243.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=s3.twcstorage.ru&pbk=MKAk3lSEdu0EOlN9XbIP3gczlPi-BA92a9C6iUJ8bzg",
+      "alias": "🇵🇱 96 Польша @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://f6c19abc-bc4f-484b-9927-fbe4d572afaa@62.152.58.205:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=uqKo06QN98uCn95hbm3HhrMJTkS0tm3e6DZ7IDe1_gY&sid=d7b684f29aaea33a&spx=%2F",
+      "alias": "🇷🇺 97 ОБХОД БЕЛЫХ СПИСКОВ @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://e3479472-3d5d-4142-842a-44a32b501bd7@tr1.cvs-a.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=tr1.cvs-a.com&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d",
+      "alias": "🇹🇷 98 Турция @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3",
+      "alias": "🇷🇺 99 Россия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    },
+    {
+      "url": "vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1",
+      "alias": "🇩🇪 100 Германия @vpnobhodrubot",
+      "test": {
+        "ping": true,
+        "speed": true
+      }
+    }
+  ],
+  "settings": {
+    "autoRefresh": true,
+    "refreshInterval": 3600,
+    "notifyOnTestComplete": false
+  },
+  "subscription_userinfo": {
+    "upload": 0,
+    "download": 0,
+    "total": 0,
+    "expire": 1785228040
+  }
+}
